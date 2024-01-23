@@ -1,7 +1,7 @@
 fx_version 'cerulean'
 game 'gta5'
 
-description 'qw-risingsuns'
+description '508tow'
 version '0.1.0'
 author 'qwadebot'
 
