@@ -1,7 +1,7 @@
 Config = {}
 
-Config.Phone = 'qb-core phone' -- currently supporting gksphone and qb-core phone
-Config.BankScript = 'qb-core banking' -- currently supporting renewed or qb-core banking
+Config.Phone = 'qb-phone' -- currently supporting gksphone and qb-core phone
+Config.BankScript = 'qb-banking' -- currently supporting renewed or qb-core banking
 Config.FuelSystem = 'ps-fuel'
 
 Config.TowingZone = {
