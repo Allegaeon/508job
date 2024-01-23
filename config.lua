@@ -1,7 +1,7 @@
 Config = {}
 
-Config.Phone = 'gksphone' -- currently supporting gksphone and qb-core phone
-Config.BankScript = 'renewed' -- currently supporting renewed or qb-core banking
+Config.Phone = 'qb-core phone' -- currently supporting gksphone and qb-core phone
+Config.BankScript = 'qb-core banking' -- currently supporting renewed or qb-core banking
 Config.FuelSystem = 'ps-fuel'
 
 Config.TowingZone = {
@@ -17,6 +17,6 @@ Config.TakeoutVehicleFromImpound = vector4(-392.95, -119.1, 38.2, 299.25)
 
 Config.CommissionForTow = 0.10
 
-Config.Job = 'tow'
+Config.Job = '508 Towing'
 
-Config.CompanyName = 'Rising Sun'
+Config.CompanyName = 'Local 508 Union'
